@@ -23,7 +23,7 @@ namespace EjemploProductos
             Tamanio = tamanio;
             Color = color;
             Estado = estado;
-            //hello
+            //hello hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
         }
     }
-}
+} 
